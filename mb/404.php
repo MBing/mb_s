@@ -1,11 +1,4 @@
-<?php
-/**
- * The template for displaying 404 pages (Not Found).
- *
- * @package MB
- */
-
-get_header(); ?>
+<?php get_header(); ?>
 
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
